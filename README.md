@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hello, I'm Nakul 👋
+
+I'm a passionate beginner developer excited to learn and grow in the world of coding!  👋
 
 <!--
 **gritmaster1/gritmaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently  on 
+- 🌱 I’m currently learning solving problems using data, Software Engineering, Natural Language ProcessingData Science, Dynamic programming
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
