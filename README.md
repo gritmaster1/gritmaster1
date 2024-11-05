@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently pursuing masters in Computer Science at Stony Brook University.
-- 💬 I’m currently learning solving problems using data, **Software Engineering**, **Natural Language Processing**,**Data Science**
+- 💬 I’m currently learning solving problems using data,**Data Science**,**Software Engineering**,**Natural Language Processing**,
 - 👯 I’m looking to collaborate to create impactful and effecient solutions 
 - ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
 <h1>Technologies</h1>
@@ -37,6 +37,7 @@
 ![Static Badge](https://img.shields.io/badge/OpenGL-mustard)
 ![Static Badge](https://img.shields.io/badge/JAVA-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Node.Js-orange)
+![Static Badge](https://img.shields.io/badge/PySpark-red)
 ![Static Badge](https://img.shields.io/badge/MongoDB-purple)
 
 
