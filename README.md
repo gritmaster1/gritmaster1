@@ -21,5 +21,23 @@
 - 👯 I’m looking to collaborate to create impactful and effecient solutions 
 - ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
 <h1>Technologies</h1>
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+
+![Static Badge](https://img.shields.io/badge/C-darkgreen)
+![Static Badge](https://img.shields.io/badge/SQL-pink)
+![Static Badge](https://img.shields.io/badge/python-yellow)
+![Static Badge](https://img.shields.io/badge/Tensorflow-black)
+![Static Badge](https://img.shields.io/badge/SkLearn-meroon)
+![Static Badge](https://img.shields.io/badge/HTML-violet)
+![Static Badge](https://img.shields.io/badge/CSS-indigo)
+![Static Badge](https://img.shields.io/badge/JavaScript-orange)
+![Static Badge](https://img.shields.io/badge/react-red)
+![Static Badge](https://img.shields.io/badge/Dash-green)
+![Static Badge](https://img.shields.io/badge/Flask-grey)
+![Static Badge](https://img.shields.io/badge/AWS-darkblue)
+![Static Badge](https://img.shields.io/badge/OpenGL-mustard)
+![Static Badge](https://img.shields.io/badge/JAVA-darkgreen)
+![Static Badge](https://img.shields.io/badge/Node.Js-orange)
+![Static Badge](https://img.shields.io/badge/MongoDB-purple)
+
+
+
