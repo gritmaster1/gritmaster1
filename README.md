@@ -21,3 +21,5 @@
 - 👯 I’m looking to collaborate to create impactful and effecient solutions 
 - ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
 <h1>Technologies</h1>
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
