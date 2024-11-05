@@ -15,7 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I'm+a+passionate+developer+excited+to+code!!" alt="Welcome to my GitHub Profile. I'm a passionate beginner developer excited to learn and grow in the world of coding!!." />
 </p>
 
-
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 - 🔭 I’m currently pursuing masters in Computer Science at Stony Brook University.
 - 💬 I’m currently learning solving problems using data,**Data Science**,**Software Engineering**,**Natural Language Processing**,
 - 👯 I’m looking to collaborate to create impactful and effecient solutions 
