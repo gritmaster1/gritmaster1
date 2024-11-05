@@ -16,18 +16,8 @@
 </p>
 
 
-
-<!--
-**gritmaster1/gritmaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently  on 
-- 🌱 I’m currently learning solving problems using data, Software Engineering, Natural Language ProcessingData Science, Dynamic programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing masters in Computer Science at Stony Brook University.
+- 💬 I’m currently learning solving problems using data, **Software Engineering**, **Natural Language Processing**,**Data Science**
+- 👯 I’m looking to collaborate to create impactful and effecient solutions 
+- ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
+<h1>Technologies</h1>
