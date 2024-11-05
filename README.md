@@ -8,7 +8,7 @@
 
 #📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/nakul-reddy-manne/)
-- [Mail](nakulreddymanne@gmail.com)
+- [GMail](mailto:nakulreddymanne@gmail.com)
 
 <!--
 **gritmaster1/gritmaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
