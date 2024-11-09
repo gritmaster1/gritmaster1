@@ -23,9 +23,11 @@
 - ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
 <h1>Technologies</h1>
 
-![Static Badge](https://img.shields.io/badge/C-darkgreen)
-![Static Badge](https://img.shields.io/badge/SQL-pink)
 ![Static Badge](https://img.shields.io/badge/python-yellow)
+![Static Badge](https://img.shields.io/badge/JAVA-darkgreen)
+![Static Badge](https://img.shields.io/badge/PySpark-red)
+![Static Badge](https://img.shields.io/badge/MongoDB-purple)
+![Static Badge](https://img.shields.io/badge/SQL-pink)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-black)
 ![Static Badge](https://img.shields.io/badge/SkLearn-meroon)
 ![Static Badge](https://img.shields.io/badge/HTML-violet)
@@ -36,10 +38,8 @@
 ![Static Badge](https://img.shields.io/badge/Flask-grey)
 ![Static Badge](https://img.shields.io/badge/AWS-darkblue)
 ![Static Badge](https://img.shields.io/badge/OpenGL-mustard)
-![Static Badge](https://img.shields.io/badge/JAVA-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Node.Js-orange)
-![Static Badge](https://img.shields.io/badge/PySpark-red)
-![Static Badge](https://img.shields.io/badge/MongoDB-purple)
+![Static Badge](https://img.shields.io/badge/C-darkgreen)
 
 
 
