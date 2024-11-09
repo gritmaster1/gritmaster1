@@ -18,8 +18,8 @@
 
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 - 🔭 I’m currently pursuing masters in Computer Science at Stony Brook University.
-- 💬 I’m currently learning solving problems using data,**Data Science**,**Software Engineering**,**Natural Language Processing**,
-- 👯 I’m looking to collaborate to create impactful and effecient solutions 
+- 💬 I’m currently learning solving problems using data,**Data Science**,**Software Engineering**,**Natural Language Processing**.
+- 👯 I’m looking to collaborate to create impactful and effecient solutions.
 - ⚡ Fun fact: When I'm not cultivating code, you'll find me tending to my garden.("🌱 Green Thumb Developer")
 <h1>Technologies</h1>
 
